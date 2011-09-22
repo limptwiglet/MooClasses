@@ -1,0 +1,3 @@
+[submodule "requireJS"]
+	path = requireJS
+	url = git://github.com/jrburke/requirejs.git
